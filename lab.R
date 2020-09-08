@@ -102,3 +102,6 @@ include_graphics(file.path('img', 'pr-base-head.png'))
 #'     - For this course, you can just comment that you've completed the lab.  
 #'     - The R side of the workflow will automatically check your work after you file a pull request.  But I'll explain that in the R lab for this week. 
 #' 
+#' 
+#' 
+#' F SOCIETY
